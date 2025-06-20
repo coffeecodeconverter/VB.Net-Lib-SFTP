@@ -56,12 +56,13 @@ If result.Success Then
 Else
     Console.WriteLine("Connection failed: " & result.ErrorMessage)
 End If
+```
 
 ---
 
 ## Main Module
 
-```vb.net
+~~~~~~~~~~~~~~~
 Imports Renci.SshNet
 Imports Renci.SshNet.Sftp                           ' install ssh.net version 2025.0.0 via nuget 
 Imports System.IO
@@ -585,4 +586,4 @@ Module ModuleSFTP
 
 
 End Module
-
+~~~~~~~~~~~~~~~
