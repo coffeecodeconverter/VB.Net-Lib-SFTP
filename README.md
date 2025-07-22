@@ -5,6 +5,9 @@ A robust, asynchronous **SFTP (SSH File Transfer Protocol)** module for VB.NET, 
 
 ---
 
+<img width="1108" height="766" alt="image" src="https://github.com/user-attachments/assets/54409ffd-451a-4b29-972b-cf9e96b3f226" />
+
+
 ## 📌 Overview
 
 This module provides a powerful, fault-tolerant interface for secure file transfers over SSH. Whether you're downloading a single file, syncing multiple files, or uploading data, this library ensures smooth operation even in unstable network environments.
