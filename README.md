@@ -1,7 +1,7 @@
 # VB.Net-Lib-SFTP
 VB.Net Lib - SFTP Module - handles async download, upload, error handling, and real-time progress. 
 
-A robust, asynchronous **SFTP (SSH File Transfer Protocol)** module for VB.NET, built on top of **SSH.NET**, designed to simplify file transfers across remote servers. Perfect for integrating into WinForms, WPF, or Console applications.
+A robust, asynchronous **SFTP (SSH File Transfer Protocol)** module for VB.NET, built on top of **SSH.NET**, designed to simplify file transfers across remote servers. Perfect for integrating into existing projects.
 
 ---
 
